@@ -1,6 +1,7 @@
 theme: minima
 title: is this a title?
 author: mokey fraggle
+theme: minima
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   idk what do u wanna do
